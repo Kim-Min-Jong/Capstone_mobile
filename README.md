@@ -9,7 +9,7 @@
 |-----|-----|--------
 |조수빈(PM), 김태강| 백엔드 | Spring frameworks, AWS s3, Naver Cloud Platform, Flask
 |김민종, 박준후| 안드로이드 |  Kotlin, android native
-|한동현| Object Detection | YOLO, pytorch
+|한동현| AI | YOLO, pytorch
 
 # 개발 환경
 IDE : Android Studio Bumblebee 2022.1.1 patch 2     
